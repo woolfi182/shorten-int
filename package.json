@@ -2,9 +2,10 @@
   "name": "shorten-int",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "src/main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx ts-node src/main.ts",
+    "test": "jest"
   },
   "devDependencies": {
     "@eslint/js": "^9.1.1",
@@ -30,7 +31,7 @@
       "json",
       "ts"
     ],
-    "rootDir": "src",
+    "rootDir": ".",
     "testRegex": ".*\\.spec\\.ts$",
     "transform": {
       "^.+\\.(t|j)s$": "ts-jest"
