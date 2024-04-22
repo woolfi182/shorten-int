@@ -1,8 +1,6 @@
 # ShortenInt
 
-![ShortenInt Screenshot](docs/images/shortenintscreen.png)
-
-Experimental UI for working with [AutoGen](https://github.com/microsoft/autogen) agents, based on the [AutoGen](https://github.com/microsoft/autogen) library. The UI is built using Next.js and web apis built using FastApi.
+<!-- ![ShortenInt Screenshot](docs/images/shortenintscreen.png) -->
 
 ## Motivation
 
